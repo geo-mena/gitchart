@@ -98,7 +98,7 @@ const App = () => {
       <div className="App-github-button">
         <a
           className="github-button"
-          href="https://github.com/sallar/github-contributions-chart"
+          href="https://github.com/geo-mena/gitchart"
           data-size="large"
           data-show-count="true"
           aria-label="Star sallar/github-contribution-chart on GitHub"
