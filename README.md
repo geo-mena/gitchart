@@ -1,4 +1,4 @@
-# :octocat: GitHub Contribution Chart Generator [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/sallar/github-contributions-canvas/blob/master/LICENSE)
+# :octocat: GitHub Contribution Chart Generator
 
 Generates an image of all your **GitHub** contributions since you have signed up, so you can use it in social media.
 
