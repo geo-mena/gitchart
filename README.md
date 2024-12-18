@@ -42,7 +42,7 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of cond
 
 ## Changelog
 
-Every release, along with the migration instructions, is documented on the GitHub [Releases](https://github.com/sallar/github-contributions-chart/releases) page.
+Every release, along with the migration instructions, is documented on the GitHub [Releases](https://github.com/geo-mena/gitchart/releases) page.
 
 ## License
 
