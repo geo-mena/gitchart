@@ -1,4 +1,4 @@
-# :octocat: GitHub Contribution Chart Generator
+# GitHub Contribution Chart Generator
 
 Generates an image of all your **GitHub** contributions since you have signed up, so you can use it in social media.
 
