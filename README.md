@@ -32,10 +32,6 @@ $ npm run dev
 
 This project is deployed on [Vercel](https://vercel.com/).
 
-## Adding themes
-
-Add your theme to [sallar/github-contribution-canvas](https://github.com/sallar/github-contributions-canvas) repo and also send a PR here to add the name of the theme to the list.
-
 ## Example
 
 <div align="center">
